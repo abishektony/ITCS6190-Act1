@@ -10,8 +10,8 @@ Follow these step-by-step instructions to build, run, and verify the containeriz
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-github-repo-link>
-cd <your-repo-folder-name>
+git clone https://github.com/abishektony/ITCS6190-Act1.git
+cd ITCS6190-Act1
 ```
 
 ### Step 2: Build and Run in docker
